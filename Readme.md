@@ -52,4 +52,4 @@ Companies should focus on:
 ---
 
 ## 🔗 Project Link
-[Add your GitHub repo link here]`
+https://github.com/rajeshpraharaj121/HR-Attrition-Analysis.git
