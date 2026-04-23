@@ -42,5 +42,5 @@ The project features highly visible, presentation-ready visualizations, includin
 
 ---
 
-## 🎯 Final Action Plan
-Employee attrition is an expensive problem. By applying this analytical framework, companies can focus on the **Top Drivers** of turnover. By running current employee data through the predictive model, HR teams can flag individuals with a high probability of leaving and intervene *before* the resignation is submitted.
+## 🔗 Project Link
+https://github.com/rajeshpraharaj121/HR-Attrition-Analysis.git
